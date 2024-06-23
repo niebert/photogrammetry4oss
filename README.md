@@ -40,16 +40,12 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [MicMac](https://micmac.ensg.eu)[![GitHub stars](https://img.shields.io/github/stars/micmacIGN/micmac.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/micmacIGN/micmac/) - A free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios
 * ![Open-Source Software][OSS Icon] [MVE](https://github.com/simonfuhrmann/mve) [![GitHub stars](https://img.shields.io/github/stars/simonfuhrmann/mve.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/simonfuhrmann/mve/) - Includes Structure from Motion, Multi-View Stereo and Surface Reconstruction
 * ![Open-Source Software][OSS Icon] [OpenDroneMap](https://github.com/OpenDroneMap/ODM) [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/ODM.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/OpenDroneMap/ODM/) - An open source command line toolkit for processing aerial drone imagery
-* ![Commercial Software][Money Icon] [Pix4D](https://www.pix4d.com) - A unique photogrammetry software suite for mobile and drone mapping
-* ![Commercial Software][Money Icon] [PixPro](https://www.pix-pro.com) - Professional photogrammetry for everyone
-* ![Commercial Software][Money Icon] [RealityCapture](https://www.capturingreality.com) - The state-of-the-art photogrammetry software solution that is changing the industry
-* ![Commercial Software][Money Icon] [SURE by nFrames](https://www.nframes.com) - Software for 3D reconstruction from images with unique performance and flexibility
 * ![Open-Source Software][OSS Icon] [TeleSculptor](https://github.com/Kitware/TeleSculptor) [![GitHub stars](https://img.shields.io/github/stars/Kitware/TeleSculptor.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Kitware/TeleSculptor/) - A cross-platform desktop application for photogrammetry
-* ![Commercial Software][Money Icon] [Trimble Inpho](https://geospatial.trimble.com/products-and-solutions/inpho) - Industry Leading Software for Digital Photogrammetry
 
 ## Structure from motion (SFM) software
 
 * ![Open-Source Software][OSS Icon] [AliceVision](https://github.com/alicevision/AliceVision) [![GitHub stars](https://img.shields.io/github/stars/alicevision/AliceVision.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/alicevision/AliceVision/) - 3D Computer Vision framework including Structure-from-Motion, Multi-View Stereo and surface reconstruction
+*  ![Open-Source Software][OSS Icon] [Regard3D](https://github.com/rhiestan/Regard3D) - 3D Computer Vision framework including Structure-from-Motion for Windows, Mac (Linux with [Wine](https://www.winehq.org/)) - URL: https://www.regard3d.org/
 * ![Open-Source Software][OSS Icon] [BoofCV](https://boofcv.org/) [![GitHub stars](https://img.shields.io/github/stars/lessthanoptimal/boofcv.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/lessthanoptimal/BoofCV/) - Includes SFM, Multi-View Stereo, Android Support and various calibration tasks
 * ![Open-Source Software][OSS Icon] [Bundler](https://github.com/snavely/bundler_sfm/) [![GitHub stars](https://img.shields.io/github/stars/snavely/bundler_sfm.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/snavely/bundler_sfm/) - SFM system for unordered image collections
 * ![Open-Source Software][OSS Icon] [COLMAP](https://colmap.github.io/index.html) [![GitHub stars](https://img.shields.io/github/stars/colmap/colmap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/colmap/colmap/) - Structure-from-Motion and Multi-View Stereo
@@ -73,7 +69,6 @@ Source: [Photogrammetry](https://ethz.ch/content/dam/ethz/special-interest/baug/
 * ![Open-Source Software][OSS Icon] [lmfit](https://lmfit.github.io/lmfit-py/) [![GitHub stars](https://img.shields.io/github/stars/lmfit/lmfit-py.svg?style=social&label=Star&maxAge=2592000)](https://github.com/lmfit/lmfit-py) - Python package which builds on and extends many of the optimization methods of [scipy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)
 * ![Open-Source Software][OSS Icon] [scipy.optimize.least_squares](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html) [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy.svg?style=social&label=Star&maxAge=2592000)](https://github.com/scipy/scipy) - Powerful least-squares optimization function for python
 * ![Open-Source Software][OSS Icon] [SymForce](https://symforce.org) [![GitHub stars](https://img.shields.io/github/stars/symforce-org/symforce.svg?style=social&label=Star&maxAge=2592000)](https://github.com/symforce-org/symforce) - Fast symbolic computation, code generation, and nonlinear optimization for robotics
-* ![Commercial Software][Money Icon] [Matlab/OptimizationToolbox](https://www.mathworks.com/products/optimization.html) - Toolbox for local optimizations, including functions for solving least squares problems
 
 ## Datasets and benchmarks
 
